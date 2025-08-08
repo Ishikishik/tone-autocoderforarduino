@@ -1,0 +1,2 @@
+# tone-autocoderforarduino
+ピアノ用の楽譜からarduino言語の関数(tone)を使うためのコーディングを自動で行う
